@@ -103,3 +103,18 @@ else if(marks<=40 && marks>33){
 else {
      console.log("Failed");
  };
+
+// Greetings
+var time=prompt("Whats time in your country ?");
+ if (time >=1 && time<=5 ){
+    alert("Good Night and sweet dreams !");
+ }
+else if (time>=6 && time<=12){
+    alert("Good Morning !");
+ }
+else if (time>=13 && marks<=16){
+     console.log("Good Afternoon !");
+ } 
+else if (time>=17 && time<=24){
+     console.log("Good Evening !");
+ } 
