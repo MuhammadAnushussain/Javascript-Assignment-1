@@ -113,8 +113,8 @@ else if (time>=6 && time<=12){
     alert("Good Morning !");
  }
 else if (time>=13 && time<=16){
-     console.log("Good Afternoon !");
+     alert("Good Afternoon !");
  } 
 else if (time>=17 && time<=24){
-     console.log("Good Evening !");
+     alert("Good Evening !");
  } 
